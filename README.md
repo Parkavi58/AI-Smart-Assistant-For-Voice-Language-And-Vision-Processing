@@ -1,12 +1,12 @@
 # AI-Smart-Assistant-For-Voice-Language-And-Vision-Processing
 This is a multimodal multilingual assistant that combines speech-to-text, text-to-speech, translation, sentiment analysis, and real-time object detection with support for many languages.
 #
-Problem-Statement 
+*Problem Statement*
 
 Language barriers and accessibility challenges prevent effective communication between people of different languages and abilities. Current solutions are fragmented, expensive, and lack support for 100+ languages. Users need separate tools for speech-to-text, translation, sentiment analysis, and object detection. There is no unified, affordable, multilingual AI system that processes speech, text, and images simultaneously while supporting emotional context and accessibility for disabled individuals.
 
 #
-Project-Objectives 
+*Project Objectives*
 
 1.To develop a unified multimodal AI system that integrates speech-to-text, text-to-speech, translation, sentiment analysis, and real-time object detection in one platform.
 
